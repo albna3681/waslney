@@ -47,7 +47,7 @@
 <div align="center">
 
 ### 🏠 صفحه تسجيل حساب جديد | Home Page
-<img src="(https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20017%20-%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%AC%D8%AF%D9%8A%D8%AF%20-%20Waslney%20-%20%5Bwaslney.aldhiha.com%5D.png)" alt="تسجيل حساب جديد" width="800">
+<img src="https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20017%20-%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%AC%D8%AF%D9%8A%D8%AF%20-%20Waslney%20-%20%5Bwaslney.aldhiha.com%5D.png" alt="تسجيل حساب جديد" width="800">
 
 <br><br>
 

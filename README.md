@@ -30,6 +30,58 @@
 
 ---
 
+## 🎥 فيديو توضيحي | Demo Video
+
+<div align="center">
+
+### شاهد النظام وهو يعمل | Watch System in Action
+
+<a href="">
+  <img src="images/video-thumbnail.png" alt="شاهد الفيديو" width="600">
+  <br>
+  <strong>▶️ اضغط لمشاهدة الفيديو الكامل</strong>
+</a>
+</div>
+## 📸 معرض الصور | Screenshots Gallery
+
+<div align="center">
+
+### 🏠 صفحه تسجيل حساب جديد | Home Page
+<img src="images/homepage.png" alt="تسجيل حساب جديد" width="800">
+
+<br><br>
+
+### 🏠 صفحه تسجيل دخول | Home Page
+<img src="images/homepage.png" alt="تسجيل دخول" width="800">
+
+### 👤 لوحة تحكم الراكب | Passenger Dashboard
+<img src="images/passenger-dashboard.png" alt="لوحة تحكم الراكب" width="800">
+
+<br><br>
+
+### 🚗 لوحة تحكم السائق | Driver Dashboard
+<img src="images/driver-dashboard.png" alt="لوحة تحكم السائق" width="800">
+
+<br><br>
+
+### 📱 طلب رحلة | Request Trip
+<img src="images/request-trip.png" alt="طلب رحلة" width="800">
+
+<br><br>
+
+### 🗺️ متابعة الرحلة | Active Trip
+<img src="images/active-trip.png" alt="متابعة الرحلة" width="800">
+
+<br><br>
+
+### 📍 الخريطة التفاعلية | Interactive Map
+<img src="images/map-view.png" alt="الخريطة التفاعلية" width="800">
+
+</div>
+
+---
+
+
 ## ✨ المميزات الرئيسية
 
 ### 🎨 واجهة مستخدم عصرية

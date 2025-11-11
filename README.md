@@ -9,7 +9,6 @@
 ![PHP](https://img.shields.io/badge/PHP-8.0+-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[العربية](#arabic) | [English](#english)
 
 </div>
 

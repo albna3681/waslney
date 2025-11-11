@@ -54,9 +54,6 @@
 ### 🏠 صفحه تسجيل دخول | Home Page
 <img src="https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20016%20-%20%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84%20-%20Waslney%20-%20%5Bwaslney.aldhiha.com%5D.png" alt="تسجيل دخول" width="800">
 
-### 👤 لوحة تحكم الراكب | Passenger Dashboard
-<img src="images/passenger-dashboard.png" alt="لوحة تحكم الراكب" width="800">
-
 <br><br>
 
 ### 🚗 لوحة تحكم السائق | Driver Dashboard

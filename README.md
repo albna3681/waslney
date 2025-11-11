@@ -37,7 +37,6 @@
 ### شاهد النظام وهو يعمل | Watch System in Action
 
 <a href="">
-  <img src="images/video-thumbnail.png" alt="شاهد الفيديو" width="600">
   <br>
   <strong>▶️ اضغط لمشاهدة الفيديو الكامل</strong>
 </a>

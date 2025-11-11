@@ -36,7 +36,7 @@
 
 ### شاهد النظام وهو يعمل | Watch System in Action
 
-<a href="">
+<a href="https://drive.google.com/file/d/1euWZAIQzlA7vnlTQb0euJA5UjtRuH7OD/view?usp=drivesdk">
   <br>
   <strong>▶️ اضغط لمشاهدة الفيديو الكامل</strong>
 </a>

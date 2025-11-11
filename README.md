@@ -74,9 +74,6 @@
 
 <br><br>
 
-### 📍 الخريطة التفاعلية | Interactive Map
-<img src="images/map-view.png" alt="الخريطة التفاعلية" width="800">
-
 </div>
 
 ---

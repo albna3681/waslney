@@ -47,12 +47,12 @@
 <div align="center">
 
 ### 🏠 صفحه تسجيل حساب جديد | Home Page
-<img src="images/homepage.png" alt="تسجيل حساب جديد" width="800">
+<img src="(https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20017%20-%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%AC%D8%AF%D9%8A%D8%AF%20-%20Waslney%20-%20%5Bwaslney.aldhiha.com%5D.png)" alt="تسجيل حساب جديد" width="800">
 
 <br><br>
 
 ### 🏠 صفحه تسجيل دخول | Home Page
-<img src="images/homepage.png" alt="تسجيل دخول" width="800">
+<img src="https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20016%20-%20%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84%20-%20Waslney%20-%20%5Bwaslney.aldhiha.com%5D.png" alt="تسجيل دخول" width="800">
 
 ### 👤 لوحة تحكم الراكب | Passenger Dashboard
 <img src="images/passenger-dashboard.png" alt="لوحة تحكم الراكب" width="800">
@@ -60,17 +60,12 @@
 <br><br>
 
 ### 🚗 لوحة تحكم السائق | Driver Dashboard
-<img src="images/driver-dashboard.png" alt="لوحة تحكم السائق" width="800">
+<img src="https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20019%20-%20%F0%9F%9A%97%20%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%20-%20Waslney%20Driver%20-%20%5Bwaslney.aldhiha.com%5D.png" alt="لوحة تحكم السائق" width="800">
 
 <br><br>
 
 ### 📱 طلب رحلة | Request Trip
-<img src="images/request-trip.png" alt="طلب رحلة" width="800">
-
-<br><br>
-
-### 🗺️ متابعة الرحلة | Active Trip
-<img src="images/active-trip.png" alt="متابعة الرحلة" width="800">
+<img src="https://github.com/albna3681/waslney/blob/main/FireShot%20Capture%20018%20-%20%D8%B7%D9%84%D8%A8%20%D8%B1%D8%AD%D9%84%D8%A9%20-%20Waslney%20-%20%5Bwaslney.aldhiha.com%5D.png" alt="طلب رحلة" width="800">
 
 <br><br>
 
